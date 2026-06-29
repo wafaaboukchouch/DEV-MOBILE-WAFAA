@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palette personnalisée — Wafaa Boukchouch -->
+    <color name="fond_ecran">#F0F7FF</color>
+    <color name="texte_principal">#1A2340</color>
+    <color name="primaire">#006B5E</color>
+    <color name="primaire_fonce">#004D43</color>
+    <color name="erreur">#B3261E</color>
+    <color name="ligne_champ">#2D6E66</color>
+    <color name="blanc">#FFFFFF</color>
+    <color name="accent">#00A896</color>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#00A896</color>
+    <color name="blanc">#FFFFFF</color>
+    <color name="erreur">#B3261E</color>
+    <color name="fond_ecran">#F0F7FF</color>
+    <color name="ligne_champ">#2D6E66</color>
+    <color name="primaire">#006B5E</color>
+    <color name="primaire_fonce">#004D43</color>
+    <color name="texte_principal">#1A2340</color>
+    <string name="app_name">IMC Wafaa</string>
+    <string name="btn_calculer">Calculer mon IMC</string>
+    <string name="category_maigreur">Maigreur</string>
+    <string name="category_normal">Poids normal</string>
+    <string name="category_obesite">Obésité modérée</string>
+    <string name="category_obesite_severe">Obésité sévère</string>
+    <string name="category_surpoids">Surpoids</string>
+    <string name="desc_image_categorie">Catégorie IMC</string>
+    <string name="desc_logo_imc">Logo IMC</string>
+    <string name="erreur_champ_obligatoire">Ce champ est obligatoire</string>
+    <string name="erreur_valeur_invalide">Valeur invalide (> 0 requise)</string>
+    <string name="label_poids">Poids</string>
+    <string name="label_taille">Taille</string>
+    <string name="resultat_format">Votre IMC : %1$s</string>
+    <string name="resultat_vide">Votre IMC : --</string>
+    <string name="titre_ecran">Calculateur IMC — MII BDCC</string>
+    <string name="unite_cm">Cm</string>
+    <string name="unite_kg">Kg</string>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/primaire_fonce</item>
+        <item name="android:navigationBarColor">#000000</item>
+    </style>
+</resources>

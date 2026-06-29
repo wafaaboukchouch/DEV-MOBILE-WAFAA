@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "ma.enset.wafaa.imcapp-debug-4:/drawable_imc.png.flat",
+        "source": "ma.enset.wafaa.imcapp-main-6:/drawable/imc.png"
+    },
+    {
+        "merged": "ma.enset.wafaa.imcapp-debug-4:/drawable_obese.png.flat",
+        "source": "ma.enset.wafaa.imcapp-main-6:/drawable/obese.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\ma.enset.wafaa.imcapp-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\ma.enset.wafaa.imcapp-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "ma.enset.wafaa.imcapp-debug-4:/drawable_t_obese.png.flat",
+        "source": "ma.enset.wafaa.imcapp-main-6:/drawable/t_obese.png"
+    },
+    {
+        "merged": "ma.enset.wafaa.imcapp-debug-4:/drawable_normal.png.flat",
+        "source": "ma.enset.wafaa.imcapp-main-6:/drawable/normal.png"
+    },
+    {
+        "merged": "ma.enset.wafaa.imcapp-debug-4:/drawable_surpoids.png.flat",
+        "source": "ma.enset.wafaa.imcapp-main-6:/drawable/surpoids.png"
+    },
+    {
+        "merged": "ma.enset.wafaa.imcapp-debug-4:/drawable_maigre.png.flat",
+        "source": "ma.enset.wafaa.imcapp-main-6:/drawable/maigre.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\ma.enset.wafaa.imcapp-debug-4:\\drawable_button_primary.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.9\\ma.enset.wafaa.imcapp-main-6:\\drawable\\button_primary.xml"
+    }
+]

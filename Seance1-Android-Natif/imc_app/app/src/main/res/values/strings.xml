@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC Wafaa</string>
+    <string name="titre_ecran">Calculateur IMC — MII BDCC</string>
+    <string name="label_poids">Poids</string>
+    <string name="label_taille">Taille</string>
+    <string name="unite_kg">Kg</string>
+    <string name="unite_cm">Cm</string>
+    <string name="btn_calculer">Calculer mon IMC</string>
+    <string name="resultat_vide">Votre IMC : --</string>
+    <string name="resultat_format">Votre IMC : %1$s</string>
+    <string name="category_maigreur">Maigreur</string>
+    <string name="category_normal">Poids normal</string>
+    <string name="category_surpoids">Surpoids</string>
+    <string name="category_obesite">Obésité modérée</string>
+    <string name="category_obesite_severe">Obésité sévère</string>
+    <string name="erreur_champ_obligatoire">Ce champ est obligatoire</string>
+    <string name="erreur_valeur_invalide">Valeur invalide (> 0 requise)</string>
+    <string name="desc_logo_imc">Logo IMC</string>
+    <string name="desc_image_categorie">Catégorie IMC</string>
+</resources>
