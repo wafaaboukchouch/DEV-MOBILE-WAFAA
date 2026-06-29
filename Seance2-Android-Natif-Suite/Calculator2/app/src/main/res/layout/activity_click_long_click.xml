@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="32dp"
+    android:background="#F0F7FF">
+
+    <Button
+        android:id="@+id/click"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:text="Appuyer ici"
+        android:textSize="18sp"
+        android:backgroundTint="#006B5E"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/longText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="En attente d'un événement..."
+        android:textSize="20sp"
+        android:textColor="#1A2340"
+        android:textStyle="bold" />
+</LinearLayout>

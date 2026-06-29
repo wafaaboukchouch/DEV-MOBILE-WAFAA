@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Thème sombre personnalisé — Wafaa Boukchouch -->
+    <color name="fond_calc">#121212</color>
+    <color name="display_bg">#1E1E2E</color>
+    <color name="texte_display">#E0E0E0</color>
+    <color name="btn_chiffre">#2D2D3F</color>
+    <color name="btn_operateur">#006B5E</color>
+    <color name="btn_egal">#00A896</color>
+    <color name="btn_fonc">#3A3A5C</color>
+    <color name="texte_btn">#FFFFFF</color>
+    <color name="texte_egal">#FFFFFF</color>
+</resources>

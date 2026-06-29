@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titre_connexion">تسجيل الدخول</string>
+    <string name="hint_identifiant">المعرف</string>
+    <string name="hint_mot_de_passe">كلمة المرور</string>
+    <string name="btn_connexion">اتصال</string>
+    <string name="titre_bienvenue">مرحباً !</string>
+    <string name="btn_retour">رجوع</string>
+    <string name="msg_champs_requis">يرجى ملء جميع الحقول</string>
+</resources>
